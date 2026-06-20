@@ -1,5 +1,12 @@
-# -Titanic-Survival-Prediction-Machine-Learning-Project
 # 🚢 Titanic Survival Prediction | Machine Learning Project
+
+<img width="640" height="480" alt="WhatsApp Image 2026-06-19 at 6 20 05 PM" src="https://github.com/user-attachments/assets/f43290a5-3d90-4d59-8ecf-f7949f66ec09" />
+
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/f58b2270-0124-4f03-9f2f-8ed91fc87e28" />
+
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/572cfc5b-8805-43b8-8edf-859054f57fd8" />
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
